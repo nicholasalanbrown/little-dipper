@@ -2,7 +2,7 @@
 Meteor.startup(function () {
   if (Lists.find().count() === 0) {
     var data = [
-      {name: "Meteor Principles",
+      {name: "Meteor Principles Blah",
        items: ["Data on the Wire",
          "One Language",
          "Database Everywhere",

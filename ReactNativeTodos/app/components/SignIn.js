@@ -45,7 +45,7 @@ let SignIn = React.createClass({
     return (
       <View style={styles.container}>
         <Text style={styles.title}>Sign In.</Text>
-        <Text style={styles.subTitle}>Signing in allows you to view private lists</Text>
+        <Text style={styles.subTitle}>Signing ifsdfsdn allows helloufdsfsd to view private lists</Text>
 
         <TextInput
           style={styles.input}

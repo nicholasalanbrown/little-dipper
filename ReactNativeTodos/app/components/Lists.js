@@ -114,7 +114,7 @@ const styles = StyleSheet.create({
   listName: {
     fontSize: 16,
     fontWeight: "400",
-    color: '#666'
+    color: '#000'
   },
   chevron: {
     alignSelf: 'flex-end',
