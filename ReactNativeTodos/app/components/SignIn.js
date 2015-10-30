@@ -91,16 +91,16 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#d2edf4',
+    backgroundColor: '#3981F4',
     paddingHorizontal: 15
   },
   title: {
-    color: '#1c3f53',
+    color: '#fff',
     fontSize: 48,
     fontWeight: "200"
   },
   subTitle: {
-    color: '#666',
+    color: '#fff',
     marginBottom: 30,
     fontSize: 16,
     fontWeight: "400"
@@ -130,7 +130,7 @@ const styles = StyleSheet.create({
     marginTop: 10,
   },
   joinText: {
-    color: '#AAA'
+    color: '#fff'
   }
 });
 
