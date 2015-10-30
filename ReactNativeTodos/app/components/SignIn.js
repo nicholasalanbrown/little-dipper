@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
     fontWeight: "400"
   },
   btn: {
-    backgroundColor: '#2cc5d2',
+    backgroundColor: '#1252A3',
     paddingVertical: 15,
     marginTop: 30,
     alignSelf: 'stretch',
